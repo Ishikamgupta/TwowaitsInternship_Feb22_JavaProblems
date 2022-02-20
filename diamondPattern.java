@@ -7,7 +7,7 @@ public class diamondPattern
 	public static void main(String[] args)
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.print("Enter number of rows: ");
+		System.out.print("Enter number of rows (Try with the number 5): ");
 		int n=sc.nextInt();
 		sc.close();
 		
